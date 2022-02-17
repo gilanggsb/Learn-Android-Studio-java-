@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Learn Native</string>
+    <string name="show_textBtn">Show Text</string>
+    <string name="change_bgBtn">Change BG</string>
+</resources>
